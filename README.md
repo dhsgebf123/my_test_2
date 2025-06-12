@@ -14,3 +14,12 @@ python3 sierpinski.py --order 4
 ## Multiplication Table
 
 Run `python3 multiplication_table.py` to print the 9x9 multiplication table.
+
+## Brain Teasers
+
+Run `python3 brain_teasers.py` to print random brain teasers. Use `-n`/`--count`
+to specify how many teasers to display, e.g.:
+
+```bash
+python3 brain_teasers.py --count 3
+```
