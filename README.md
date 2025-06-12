@@ -10,3 +10,7 @@ Run `python3 sierpinski.py` to print an ASCII Sierpinski triangle. Use the
 ```bash
 python3 sierpinski.py --order 4
 ```
+
+## Multiplication Table
+
+Run `python3 multiplication_table.py` to print the 9x9 multiplication table.
